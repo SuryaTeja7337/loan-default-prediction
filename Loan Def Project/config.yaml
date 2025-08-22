@@ -1,0 +1,5 @@
+# Basic project configuration
+data_path: "Default_Fin.csv"
+target: "Defaulted?" # update if incorrect
+test_size: 0.2
+random_state: 42
